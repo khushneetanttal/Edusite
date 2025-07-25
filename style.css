@@ -168,17 +168,17 @@ nav .logo img {
 }
 .container p {
   font-size: 20px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 .row {
   /* border: 2px solid red; */
   /* height: 30%; */
   display: flex;
   justify-content: space-evenly;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
 }
 .division {
-  position: relative;
+  /* position: relative; */
   width: 49%;
   display: flex;
   justify-content: space-between;
@@ -194,7 +194,7 @@ nav .logo img {
   text-align: left;
   font-weight: bold;
   position: relative;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
 }
 .course a {
   text-decoration: none;
@@ -204,13 +204,9 @@ nav .logo img {
   height: 70%;
   width: 100%;
 }
-.course-title {
-  position: absolute;
+/* .course-title {
   height: 10%;
-  /* border: 2px solid darkblue; */
-  bottom: 0;
-  gap: 100px;
-}
+} */
 
 .all button {
   height: 50px;
